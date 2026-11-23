@@ -1,0 +1,16 @@
+{
+  "name": {"ru": "Студия красоты «Demo»", "en": "Demo Beauty Studio"},
+  "address": {"ru": "ул. Примерная, 1", "en": "1 Example Street"},
+  "phone": "+7 900 000-00-00",
+  "work_hours": [10, 20],
+  "days_off": [6],
+  "slot_step_minutes": 30,
+  "days_ahead": 7,
+  "remind_hours_before": 24,
+  "services": {
+    "haircut": {"name": {"ru": "Стрижка", "en": "Haircut"}, "minutes": 60, "price": {"ru": "1 500 ₽", "en": "$20"}},
+    "manicure": {"name": {"ru": "Маникюр", "en": "Manicure"}, "minutes": 90, "price": {"ru": "2 000 ₽", "en": "$25"}},
+    "coloring": {"name": {"ru": "Окрашивание", "en": "Hair coloring"}, "minutes": 120, "price": {"ru": "3 500 ₽", "en": "$45"}},
+    "brows": {"name": {"ru": "Брови", "en": "Brows"}, "minutes": 30, "price": {"ru": "800 ₽", "en": "$10"}}
+  }
+}
