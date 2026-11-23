@@ -3,6 +3,8 @@
 A ready-to-use Telegram bot that lets clients book appointments 24/7, without calls or messages.
 Made for beauty salons, barbershops, car washes, photo studios, tutors, and fitness or dance studios.
 
+<p align="center"><img src="docs/demo.gif" width="320" alt="Booking bot demo: service → day → time → confirm → reminder"></p>
+
 ## What it does
 
 **For clients**
